@@ -26,10 +26,10 @@ This project focuses on cleaning and preparing a music dataset containing inform
 - Reorder columns logically to improve readability and usability.
 - Rename columns where necessary for clarity.
 # 🛠 Tools and Techniques
- ### Tools Used:
+ #### Tools Used:
 - Microsoft Excel
 - Python (Pandas, NumPy)
-### Techniques:
+#### Techniques:
 - Data Cleaning
 - Data Standardization
 - Handling Missing Values
