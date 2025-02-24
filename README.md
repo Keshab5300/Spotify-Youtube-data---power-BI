@@ -27,7 +27,7 @@ This project focuses on cleaning and preparing a music dataset containing inform
 - Rename columns where necessary for clarity.
 # 🛠 Tools and Techniques
 - Tools Used:
--- Microsoft Excel
+-# Microsoft Excel
 -- Python (Pandas, NumPy)
 - Techniques:
 -- Data Cleaning
@@ -35,5 +35,5 @@ This project focuses on cleaning and preparing a music dataset containing inform
 -- Handling Missing Values
 -- Advanced Data Manipulation
 # 📊 Outcome
-A fully cleaned and structured dataset ready for analysis.
-Improved data consistency and usability for deriving insights into music trends and audience behavior.
+- A fully cleaned and structured dataset ready for analysis.
+- Improved data consistency and usability for deriving insights into music trends and audience behavior.
